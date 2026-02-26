@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="PricerOptionExo.vcxproj" />
+  <Project Path="PricerOptionExo.vcxproj" Id="d7d292c3-9e49-4741-a88b-23d329a4a057" />
 </Solution>

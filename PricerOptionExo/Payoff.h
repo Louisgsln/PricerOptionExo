@@ -18,7 +18,7 @@ public:
 class PayoffCall : public Payoff 
 {
 private:
-	double k;
+	double K;
 
 public:
 	PayoffCall(double strike);
@@ -30,7 +30,7 @@ public:
 class PayoffPut : public Payoff
 {
 private:
-	double k;
+	double K;
 
 public:
 	PayoffPut(double strike);
